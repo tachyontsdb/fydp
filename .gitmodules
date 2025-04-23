@@ -1,0 +1,6 @@
+[submodule "tachyon"]
+	path = tachyon
+	url = https://github.com/tachyontsdb/tachyon.git
+[submodule "tachyondb-grafana-datasource-plugin"]
+	path = tachyondb-grafana-datasource-plugin
+	url = https://github.com/tachyontsdb/tachyondb-grafana-datasource-plugin.git
